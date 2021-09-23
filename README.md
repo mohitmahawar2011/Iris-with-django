@@ -45,6 +45,11 @@ python manage.py createsuperuser
 Username : user
 Password : user
 ```
+### requirements
+* django
+* sklearn
+* pandas
+* pickle
 
 ---
 ## :heart: Owner
